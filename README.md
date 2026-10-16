@@ -7,3 +7,5 @@ Dataset: Menggunakan data publik Electric_Vehicle_Population_Data.csv yang beris
 Fitur Data yang Dianalisis: Tahun Pembuatan (Model Year), Merek Mobil (Make), dan Jarak Tempuh Listrik (Electric Range).
 Algoritma Model: Random Forest Classifier, yaitu metode klasifikasi yang menggunakan banyak "pohon keputusan" untuk menghasilkan tingkat akurasi yang tinggi.
 Alat & Teknologi: Proyek ini dibangun sepenuhnya menggunakan Jupyter Notebook dengan bahasa pemrograman Python, dibantu oleh library Pandas (untuk pembersihan data) dan Scikit-Learn (untuk proses Machine Learning).
+
+dataset : https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population
